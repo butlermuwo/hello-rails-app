@@ -1,53 +1,24 @@
-![](https://img.shields.io/badge/RubyOnRails-HelloRailsApp-brown)
+# README
 
-# hello-rails-app
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-Putting into practice the MVC lesson by creating a path from the browser to the routes file to the Controller action, which can pull data from the database through the Model and create an instance variable that is then sent to the View to be displayed to the user.
+Things you may want to cover:
 
-## Built With
+* Ruby version
 
-- RUBY ON RAILS
-- GEM
-- TERMINAL
-- PostgreSQL
+* System dependencies
 
-## Getting Started
+* Configuration
 
-Start by cloning the repository.
+* Database creation
 
-`https://github.com/butlermuwo/hello-rails-app.git`
+* Database initialization
 
-Navigate to the created folder.
+* How to run the test suite
 
-`cd hello-rails-app`
+* Services (job queues, cache servers, search engines, etc.)
 
-Install all the dependencies.
+* Deployment instructions
 
-`bundle install`
-
-For testing the project.
-
-```
-rspec
-```
-## Authors
-
-👤 **Butler shimalwani**
-
-- GitHub: [@Butler Shimaluwani](https://github.com/butlermuwo)
-- Twitter: [@Butler Shimaluwani](https://twitter.com/ButlerMuwo/)
-- LinkedIn: [@Butler Shimaluwani](https://www.linkedin.com/in/butlermuwo)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/BenjaminSemah/ruby-catalogue-app/issues).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+* ...
